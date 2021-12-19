@@ -4,7 +4,7 @@
 - 💞️ I’m looking to expand my knowledge on anything Computer Science and work in a company that would assist me in utilizing my knowledge and interest
       for Computer Science Effectively
 - 📫 How to reach me:
-        Email: geeneth.kulatunge@mail.concordia.ca
+        Email: kulatungegeeneth@gmail.com
 
 <!---
 Geeneth/Geeneth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
