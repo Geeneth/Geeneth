@@ -2,6 +2,8 @@
 
 - 📫 Reach me at: kulatungegeeneth@gmail.com
 
+![Technologies Cropped](https://user-images.githubusercontent.com/44797747/191418197-ffdd183d-66b2-483d-af8a-de754e1b8e11.png)
+
 <!---
 Geeneth/Geeneth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
